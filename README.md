@@ -1,2 +1,2 @@
 <div align="center">
-[![github downloads]
+[![Github Downloads]
